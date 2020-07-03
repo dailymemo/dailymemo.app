@@ -10,6 +10,7 @@
 
 ## Download
 
+* → [iOS](https://testflight.apple.com/join/FJ7wTrf6)
 * → [Mac, PC, Linux Desktop Apps](https://github.com/gikiapp/giki.app/releases)
 * → [Chrome Extension](https://chrome.google.com/webstore/detail/hcjaennlplpppgfolnagejnpcmbhdjba)
 * → [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/giki)
@@ -101,6 +102,20 @@ https://giki.app/api/talks/query
 ```
   curl 'https://giki.app/api/talks/query?id=<giki id>' \
   -H 'authorization: Basic <your token>'
+```
+
+**giki explore
+
+`explore` API used by [https://giki.app/explore](https://giki.app/explore) to list all users' posts with a specific algorithm.
+
+```
+https://giki.app/api/talks/explore
+```
+
+```
+curl 'https://giki.app/api/talks/explore?page=1' \
+  -H 'authorization: Basic <your token>' \
+  --compressed
 ```
 
 **giki tags list**
