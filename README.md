@@ -71,6 +71,23 @@ curl -X POST 'https://giki.app/api/talks/create' \
   --data-binary '{"text":"hello world ","actions":["weibo"],"tags":["private"],"image":[]}'
 ```
 
+
+**giki update**
+
+```
+https://giki.app/api/talks/update
+```
+
+```shell
+
+curl -X POST 'https://giki.app/api/talks/update' \
+  -H 'authority: giki.app' \
+  -H 'authorization: Basic <your token>' \
+  -H 'content-type: application/json' \
+  --data-binary '{"id": "f031fbd2-f73f-11ea-adc1-0242ac120002", text":"hello world ","actions":["weibo"],"tags":["private"],"image":[]}'
+```
+
+
 **giki list**
 
 ```
@@ -104,7 +121,7 @@ https://giki.app/api/talks/query
   -H 'authorization: Basic <your token>'
 ```
 
-**giki explore
+**giki explore**
 
 `explore` API used by [https://giki.app/explore](https://giki.app/explore) to list all users' posts with a specific algorithm.
 
