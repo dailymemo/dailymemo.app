@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Giki • 叽喳</h1>
   <strong>A simple, secure and powful journal app</strong>
-  <img src="https://cdn.jsdelivr.net/gh/gikiapp/cdn@1.0.12/images/snapshots/dark-demo.png" width="80%" alt="screenshot-dark">
-  <img src="https://cdn.jsdelivr.net/gh/gikiapp/cdn@1.0.12/images/snapshots/light-demo.png" width="80%" alt="screenshot-light">
+  <img src="https://cdn.jsdelivr.net/gh/gikiapp/cdn@1.0.12/images/snapshots/dark-demo.png" width="30%" alt="screenshot-dark"><img src="https://cdn.jsdelivr.net/gh/gikiapp/cdn@1.0.12/images/snapshots/light-demo.png" width="30%" alt="screenshot-light">
 </div>
 
 ## Home
