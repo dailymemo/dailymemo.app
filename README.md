@@ -17,3 +17,7 @@
 * → [Mac, PC, Linux Desktop Apps](https://github.com/gikiapp/giki.app/releases)
 * → [Chrome Extension](https://chrome.google.com/webstore/detail/hcjaennlplpppgfolnagejnpcmbhdjba)
 * → [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/giki)
+
+## Developer?
+
+[giki.app](https://giki.app) provides varierty of APIs for developers to build extensions, all kinds of extensions (Vim plugin, Emacs pluggin, CLI, etc) are welcome. check out the [SDK](https://github.com/gikiapp/sdk) for more details.
