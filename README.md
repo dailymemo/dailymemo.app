@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Giki • 叽喳</h1>
+  <h1>DailyMemo</h1>
   <strong>A simple, secure and powful journal app</strong>
 </div>
 <div align="center">
@@ -8,7 +8,7 @@
 
 ## Home
 
-→ [**giki.app**](https://giki.app)
+→ [**dailymemo.app**](https://dailymemo.app)
 
 ## Download
 
@@ -20,7 +20,7 @@
 
 ## Developer?
 
-[giki.app](https://giki.app) provides varierty of APIs for developers to build extensions, all kinds of extensions (Vim plugin, Emacs pluggin, CLI, etc) are welcome. check out the [SDK](https://github.com/gikiapp/sdk) for more details.
+[dailymemo.app](https://dailymemo.app) provides varierty of APIs for developers to build extensions, all kinds of extensions (Vim plugin, Emacs pluggin, CLI, etc) are welcome. check out the [SDK](https://github.com/dailymemo/sdk) for more details.
 
 ## Office Hours
 
